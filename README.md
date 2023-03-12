@@ -1,7 +1,7 @@
 # Unbound  
 ![image](https://user-images.githubusercontent.com/106238433/224565533-56e85505-fad8-4b13-98f7-a8abc2e326d0.png)
 
-###Being unbound is an important concept in various areas of science and technology, particularly in physics, chemistry, and engineering.
+### Being unbound is an important concept in various areas of science and technology, particularly in physics, chemistry, and engineering.
 
 - In physics, an unbound system refers to a system of particles that are not held together by a strong force or a potential energy well. For example, a free electron is unbound because it is not bound to an atomic nucleus. Unbound systems are often used to study the behavior of particles in extreme conditions, such as in particle accelerators or in astrophysical environments.
 
