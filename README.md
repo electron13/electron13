@@ -7,3 +7,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=electron13&theme=green-nur&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electron13&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+![electron13's GitHub stats](https://github-readme-stats.vercel.app/api?username=electron13&theme=chartreuse-dark&show_icons=true)
